@@ -3,7 +3,7 @@
  - The connection between python and c++ is through ctypes library
  - The .so file has also been created
  - The following example is the quantization of the coefficients of an FIR filter
- - The number of taps is 13 and the number of fractional parts is 4 bits
+ - The number of taps is 13 and the number of fractional bits is 4
 
  -   
 
