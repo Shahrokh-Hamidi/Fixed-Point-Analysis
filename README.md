@@ -1,5 +1,5 @@
 - This repository contains an implementation of fixed-point analysis for digital filters
- - The fixed-point analysis has been written in c++ and a .dll file has been created to be used in python
+ - The fixed-point analysis has been written in c++ and a dll file has been created to be used in python
  - The connection between python and c++ is through ctypes library
  - The .so file has also been created
  - The following example is the quantization of the coefficients of an FIR filter
